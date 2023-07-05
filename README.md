@@ -1,1 +1,1 @@
-My first readme
+precourse and zero course
